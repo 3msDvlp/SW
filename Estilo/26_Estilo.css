@@ -78,3 +78,64 @@
             height: 100px;
             min-width: 150px;
         }
+
+        a:link {
+            color: red;
+           text-decoration: none;
+        }
+        a:visited {
+            color: green;
+            text-decoration: none;
+        }
+        a.hover {
+            color: yellow;
+            text-decoration: underline;
+        }
+        a:active {
+            color: magenta;
+            text-decoration: none;
+        }
+        
+        #forma1 {
+            background-color: yellow;
+            border: solid;
+            border-color: brown;
+            border-width: 10px;
+            height: 100px;
+            width: 150px;
+        }
+        #forma2 {
+            background-color: yellow;
+            border: solid;
+            border-color: brown;
+            border-width: 10px;
+            height: 100px;
+            width: 150px;
+        }
+        #forma3 {
+            background-color: yellow;
+            border: solid;
+            border-color: brown;
+            border-width: 10px;
+            height: 100px;
+            width: 150px;
+        }
+        #forma4 {
+            background-color: yellow;
+            border: solid;
+            border-color: brown;
+            border-width: 10px;
+            height: 100px;
+            width: 150px;
+        }
+        #forma5 {
+            background-color: yellow;
+            border: solid;
+            border-color: brown;
+            border-width: 10px;
+            height: 100px;
+            width: 150px;
+        }
+
+
+        
