@@ -1,0 +1,35 @@
+css
+body {
+    background: blue; 
+    background-color: BLUE;
+}
+
+table {
+    margin: auto;
+    text-align: center; 
+    background-color: purple;
+    color: white; 
+    border-collapse: collapse; 
+}
+
+th {
+    font-weight: bold; 
+    text-transform: uppercase; 
+}
+
+td, th {
+    border: 1px solid white; 
+    padding: 10px;
+}
+
+button {
+    background-color: white; 
+    color: black; 
+    border: 1px solid black; 
+    padding: 10px 20px; 
+    cursor: pointer; 
+}
+
+button:hover {
+    opacity: 0.8; 
+}
